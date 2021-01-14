@@ -1,6 +1,8 @@
 # Gavin, Jason, and Nikita present:
 # Safe Airline Finder to Escape COVID - SAFECOVID
 
+https://img.shields.io/github/issues/jasonkim0808/CS225
+
 We use the OpenFlights dataset (stored in the data folder as edges.txt) to search for the safest and
 efficient path to travel from one airport to another. The safest route means that the
 chance of getting the COVID is the lowest. This is be determined by
